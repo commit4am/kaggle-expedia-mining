@@ -1,0 +1,5 @@
+# ignore jupyter checkpoints
+.ipynb_checkpoints
+
+# ignore OS X folder attributes file
+.DS_Store
